@@ -1,6 +1,6 @@
-# primedart
+# NumDash
 
-A new Flutter application.
+The NumDash game.
 
 ## Getting Started
 
